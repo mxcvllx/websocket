@@ -1,0 +1,5 @@
+django==4.2.3
+consumers~=0.6.1
+channels~=4.0.0
+self~=2020.12.3
+asgiref~=3.7.2
